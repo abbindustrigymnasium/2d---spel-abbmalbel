@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Platform
+    uniqueID: 970559511
+    locked: 0
+  - name: Water
+    uniqueID: 3696568101
+    locked: 0
+  - name: Danger
+    uniqueID: 2931111807
+    locked: 0
+  - name: Decor
+    uniqueID: 3485641879
+    locked: 0
+  - name: Background
+    uniqueID: 4244387871
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
